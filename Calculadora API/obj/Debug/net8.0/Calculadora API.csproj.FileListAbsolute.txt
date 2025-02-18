@@ -1,0 +1,32 @@
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/appsettings.Development.json
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/appsettings.json
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Calculadora API
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Calculadora API.deps.json
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Calculadora API.runtimeconfig.json
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Calculadora API.dll
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Calculadora API.pdb
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.csproj.AssemblyReference.cache
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.AssemblyInfoInputs.cache
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.AssemblyInfo.cs
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.csproj.CoreCompileInputs.cache
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.MvcApplicationPartsAssemblyInfo.cs
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.MvcApplicationPartsAssemblyInfo.cache
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/staticwebassets/msbuild.Calculadora API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/staticwebassets/msbuild.build.Calculadora API.props
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Calculadora API.props
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Calculadora API.props
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/scopedcss/bundle/Calculadora API.styles.css
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.csproj.CopyComplete
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.dll
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/refint/Calculadora API.dll
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.pdb
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/Calculadora API.genruntimeconfig.cache
+/Users/RolyA419/RiderProjects/Calculadora API/Calculadora API/obj/Debug/net8.0/ref/Calculadora API.dll
